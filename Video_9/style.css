@@ -1,0 +1,11 @@
+/* . for id # for class */
+.red{ 
+background-color: rgb(230, 110, 110);
+}
+
+.bg-yellow{
+    color: rgb(21, 1, 21);
+}
+#firstdiv{
+background-color: yellowgreen;
+}
